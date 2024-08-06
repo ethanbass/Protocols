@@ -13,7 +13,7 @@
 **Warning:  Perchloric acid is extremely hazardous and should be treated with appropriate caution.** Please consult MSDS before attempting this procedure. Perchloric acid should be handled in the hood with appropriate PPE (e.g., thick nitrile gloves and safety goggles)
 
 ##### Glasswear
-*(All glasswear should be very clean to avoid phosphorus contamination. This can be accomplished by acid-washing in 0.1 N HCl*).
+*(All glasswear should be very clean to avoid phosphorus contamination. This can be accomplished by acid-washing glasswear in 0.1 N HCl*).
 - Beaker.
 - Volumetric flask with glass stopper.
 - Small stir bar.
