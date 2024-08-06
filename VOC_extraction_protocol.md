@@ -16,7 +16,7 @@
 - Crimping tool
 - Hooked needle for extraction of plastic retaining plugs
 
-    ![](orbo_trap.png)
+    ![](figures/orbo_trap.png)
 
   **Figure 1**. ORBO™32 activated charcoal adsorption tube. <br>
   (Tubes should be oriented on the manifold so that plug **#1** <br>
