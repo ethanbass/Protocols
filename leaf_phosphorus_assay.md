@@ -1,5 +1,4 @@
-##### Leaf phosphorus assay protocol 
-(adapted from "Improving the stability of the malachite green method for the determination of phosphate using Pluronic F68" [@martinezgache2020]).
+**Leaf phosphorus assay protocol** (adapted from *Improving the stability of the malachite green method for the determination of phosphate using Pluronic F68* (Martínez Gache et al. [2020](https://www.sciencedirect.com/science/article/abs/pii/S000326972030213X)).
 
 #### Materials:
 ##### Reagents:
@@ -11,17 +10,17 @@
 - Potassium dihydrogen orthophosphate (KH~2~PO~4~)
 - Glacial acetic acid
 
-**Warning:** Perchloric acid is extremely hazardous and should be treated with appropriate caution. Please consult MSDS before attempting this procedure. Perchloric acid should be handled in the hood with appropriate PPE (e.g., thick nitrile gloves and safety goggles)
+**Warning:  Perchloric acid is extremely hazardous and should be treated with appropriate caution.** Please consult MSDS before attempting this procedure. Perchloric acid should be handled in the hood with appropriate PPE (e.g., thick nitrile gloves and safety goggles)
 
 ##### Glasswear
-(All glasswear should be very clean to avoid phosphorus contamination. This can be accomplished by acid-washing in 0.1 N HCl).
+*(All glasswear should be very clean to avoid phosphorus contamination. This can be accomplished by acid-washing in 0.1 N HCl*).
 - Beaker.
 - Volumetric flask with glass stopper.
 - Small stir bar.
 - Glass stirring rod.
 
 ##### Preparation of extraction solvent (2% acetic acid)
-(Some of the older bottles of acetic acid in the acid cabinet are somehow contaminated with phosphorus. Use the newest bottle and be careful to avoid contamination).
+(*Some of the older bottles of acetic acid in the acid cabinet are somehow contaminated with phosphorus. Use the newest bottle and be careful to avoid contamination*).
 1. Add ~ 800 ml of milliQ water to a very clean 1 L volumetric flask.
 2. Add 20 ml of glacial acetic acid to the flask.
 3. Fill to the line with milliQ water.
@@ -43,7 +42,7 @@
 6. Immediately add 1.5 ml of pluronic F68 solution (0.17 g/ ml).
 7. Carefully pour the solution into a 25 ml volumetric flask and fill to 25 ml with milliQ water.
 
-The color reagent can be stored for at least one year at room temperature [@martinezgache2020].
+The color reagent can be stored for at least one year at room temperature.
 
 ##### Preparation of phosphorus standards
 
@@ -68,6 +67,7 @@ The supernatant from the extractions must be diluted into the linear range for t
 ##### Load phosphate standards onto the plate
 
 I've found that reproducibility is fine making the dilutions directly on the plate (e.g., by making 2-fold serial dilutions starting from 80 µM). Make sure the volume of the standards matches the volume of your samples (i.e., in this case 80 µL). 
+
 1. Start with 160 µL of the undiluted (80 µM) standard in the first well.
 2. Add 80 µL of extraction buffer to the next 7 wells.
 3. Remove 80 µL from the first well and transfer it to the second well, mix by pipetting up and down at least three times.
