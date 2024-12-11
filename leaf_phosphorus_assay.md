@@ -7,7 +7,7 @@
 - Perchloric acid 70%
 - Pluronic F68 (stabilizer)
 - Zirconium grinding beads (new or very clean).
-- Potassium dihydrogen orthophosphate (KH~2~PO~4~)
+- Potassium dihydrogen orthophosphate (KH<sub>2</sub>PO<sub>4</sub>)
 - Glacial acetic acid
 
 **Warning:  Perchloric acid is extremely hazardous and should be treated with appropriate caution.** Please consult MSDS before attempting this procedure. Perchloric acid should be handled in the hood with appropriate PPE (e.g., thick nitrile gloves and safety goggles)
@@ -75,7 +75,7 @@ I've found that reproducibility is fine making the dilutions directly on the pla
 5. Make sure to discard 80 µL from the final well so that all volumes are equal. The 8th well should be pure extraction buffer (0 µM).
 6. If preparing two sets of standards on the plate, repeat this process in another non-contiguous set of wells.
 
-This procedure should achieve the following concentrations: 80, 40, 20, 10, 5, 2.5, 1.25, 0 µM PO~4~. Alternatively, each standard can be prepared in a larger volume and 80 µL can be pipetted into each well, but I have found that this does not increase reproducibility.
+This procedure should achieve the following concentrations: 80, 40, 20, 10, 5, 2.5, 1.25, 0 µM PO<sub>4</sub>. Alternatively, each standard can be prepared in a larger volume and 80 µL can be pipetted into each well, but I have found that this does not increase reproducibility.
 
 ##### Load samples onto the plate
 
