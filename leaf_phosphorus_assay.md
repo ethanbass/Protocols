@@ -3,7 +3,7 @@
 #### Materials:
 ##### Reagents:
 - Malachite green carbinol hydrochloride
-- Ammonium molybdate (NH~4~)~6~Mo~7~O~24~
+- Ammonium molybdate (NH<sub>4</sub>)<sub>6</sub>Mo<sub>7</sub>O<sub>24</sub>
 - Perchloric acid 70%
 - Pluronic F68 (stabilizer)
 - Zirconium grinding beads (new or very clean).
