@@ -55,9 +55,9 @@ The color reagent can be stored for at least one year at room temperature.
 4. Homogenize leaves on fast-prep (15 s at ).
 5. Sonicate in ice-water for 6 minutes.
 6. Homogenize leaves on fast-prep (15 s at ).
-7. Centrifuge at 16,0000 RPM for 5 minutes.
+7. Centrifuge at ~ 20,000 RCF for 5 minutes.
 8. Pipette supernatant into fresh eppendorf tube.
-9. Centrifuge at 16,0000 RPM for 5 minutes.
+9. Centrifuge at ~ 20,000 RCF for 5 minutes.
 10. Pipette supernatant into fresh eppendorf tube.
 
 #### Phosphorus assay
