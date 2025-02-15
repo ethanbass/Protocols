@@ -37,19 +37,20 @@ keywords:
 
 ### Staining protocol
 
-- Place roots into "fine pore" tissue casettes.
-- clear roots in 10% KOH for 3-5 minutes
-- rinse roots with tap water
-- stain roots for 3 minutes by boiling in 5% ink solution in white vinegar
-- rinse roots with acidified tap water for 20 minutes (minimum).
+1. Place roots into "fine pore" tissue casettes.
+2. Clear roots in 10% KOH for 3-5 minutes
+3. Rinse roots with tap water
+4. Stain roots for 3 minutes by boiling in 5% ink solution in white vinegar
+5. Rinse roots with acidified tap water for 20 minutes (minimum).
 
-To achieve greater contrast, roots can be optionally destained  in "Clearsee" solution as follows:
-    - Rinse roots with DI water to remove all traces of vinegar.
-    - Place in clearsee solution and for 1-3 minutes
-    - Rinse with DI water to remove all traces of clearsee.
+To achieve greater contrast, roots can be optionally destained  in "ClearSee" solution as follows:
+
+6. Rinse roots with DI water to remove all traces of vinegar.
+7. Place in clearsee solution and for 1-3 minutes
+8. Rinse with DI water to remove all traces of clearsee.
 
 **Caution:** Roots must be thoroughly rinsed with DI water before/after exposure to clearsee solution because Clearsee constituents precipitate under acidic conditions. Once precipitated, Clearsee can be very difficult to remove from roots.
 
-- After destaining, roots can be stored in the 30% glycerol storage solution.
+9. After destaining, roots can be stored in the 30% glycerol storage solution.
 
 **Note:** 24 well microplates are a convenient format for storing stained roots. To prevent evaporation, sealing film can be placed over the wells. For longer-term storage, roots can be refrigerated.
