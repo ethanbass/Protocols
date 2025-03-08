@@ -54,3 +54,10 @@ To achieve greater contrast, roots can be optionally destained  in "ClearSee" so
 9. After destaining, roots can be stored in the 30% glycerol storage solution.
 
 **Note:** 24 well microplates are a convenient format for storing stained roots. To prevent evaporation, sealing film can be placed over the wells. For longer-term storage, roots can be refrigerated.
+
+### References
+
+Vierheilig, H., Coughlan, A.P., Wyss, U. & Piché, Y. (1998). [Ink and Vinegar, a Simple Staining Technique for Arbuscular-Mycorrhizal Fungi](https://doi.org/10.1128/AEM.64.12.5004-5007.1998). Appl. Environ. Microbiol., 64, 5004–5007.
+
+Kurihara, D., Mizuta, Y., Sato, Y. & Higashiyama, T. (2015). [ClearSee: a rapid optical clearing reagent for whole-plant fluorescence imaging](https://doi.org/10.1242/dev.127613). Development, 142, 4168–4179.
+

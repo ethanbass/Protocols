@@ -84,3 +84,7 @@ This procedure should achieve the following concentrations: 80, 40, 20, 10, 5, 2
 3. After all samples are loaded, add 20 µL of 5x color reagent to each well. Make sure to change tips between wells. (You do not want to contaminate the color reagent!)
 4. After adding the color reagent to all of the wells, allow the plate to incubate at room temperature for 30 minutes.
 5. Read the plate on the plate reader at 630 nm. 
+
+### References
+
+Martínez Gache, S.A., Recoulat Angelini, A.A., Sabeckis, M.L. & González Flecha, F.L. (2020). [Improving the stability of the malachite green method for the determination of phosphate using Pluronic F68](https://doi.org/10.1016/j.ab.2020.113681). Analytical Biochemistry, 597, 113681.
