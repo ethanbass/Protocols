@@ -38,7 +38,7 @@ keywords:
 ### Staining protocol
 
 1. Place roots into "fine pore" tissue casettes.
-2. Clear roots in 10% KOH for 3-5 minutes
+2. Clear roots by boiling in 10% KOH for 3-5 minutes
 3. Rinse roots with tap water
 4. Stain roots for 3 minutes by boiling in 5% ink solution in white vinegar
 5. Rinse roots with acidified tap water for 20 minutes (minimum).
