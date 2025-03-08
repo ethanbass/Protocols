@@ -3,6 +3,44 @@
 
 @import "{{ site.theme }}";
 
+
+/* Hide the sidebar completely */
+header {
+  display: none;
+}
+
+/* Adjust the main content to take full width */
+section {
+  width: 100%;
+  margin-left: 0;
+  padding: 20px 50px;
+  float: none;
+}
+
+/* Fix footer position since sidebar is gone */
+footer {
+  width: 100%;
+  margin-left: 0;
+  float: none;
+  position: relative;
+  bottom: auto;
+}
+
+/* Make sure the content looks good at all screen sizes */
+@media print, screen and (max-width: 960px) {
+  section {
+    border: none;
+    width: 100%;
+    padding: 20px 30px;
+  }
+}
+
+@media print, screen and (max-width: 720px) {
+  section {
+    padding: 20px 15px;
+  }
+}
+
 /* Fix main header text color */
 header h1.header {
   color: #333333; /* Dark gray color for the main header */
