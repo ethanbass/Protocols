@@ -3,6 +3,42 @@
 
 @import "{{ site.theme }}";
 
+/* Fix main header text color */
+header h1.header {
+  color: #333333; /* Dark gray color for the main header */
+  text-shadow: none; /* Remove any text shadow that might be making it look white */
+}
+
+/* Fix all links in the sidebar to ensure they're visible */
+header ul a {
+  color: #333333; /* Dark color for all links */
+}
+
+/* Change the "View on GitHub" button to gray */
+a.buttons.github {
+  background-color: #555555; /* Medium gray background */
+  color: white; /* White text on gray background */
+  text-shadow: none; /* Remove any text shadows */
+  /* Keep the GitHub icon but with gray background */
+  background: url(../images/github-mark.png) no-repeat 1px center, #555555;
+}
+
+/* Add hover effect for the gray button */
+a.buttons.github:hover {
+  background-color: #777777; /* Slightly lighter gray on hover */
+  background: url(../images/github-mark.png) no-repeat 1px center, #777777;
+}
+
+/* Fix the maintainer text that might be white */
+header p {
+  color: #333333; /* Dark color for paragraph text */
+}
+
+/* Fix any other potentially white text in the header */
+header * {
+  color: #333333; /* Fallback to ensure no white text remains */
+}
+
 /* Customize link colors */
 a {
   color: #000000; /* Change this to your preferred link color */
