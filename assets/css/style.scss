@@ -1,0 +1,34 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Customize link colors */
+a {
+  color: #000000; /* Change this to your preferred link color */
+  &:hover {
+    color: #E0887B; /* Change this to your preferred hover color */
+  }
+}
+
+/* Customize sidebar background */
+header {
+  background-color: #F1F4F4; /* Change this to your preferred sidebar background color */
+}
+
+/* Customize sidebar text color */
+header h1 {
+  color: #000000; /* Change this to your preferred sidebar title color */
+}
+
+header p {
+  color: #000000; /* Change this to your preferred sidebar text color */
+}
+
+/* Customize sidebar links */
+header li a {
+  color: #000000; /* Change this to your preferred sidebar link color */
+  &:hover {
+    color: #E0887B; /* Change this to your preferred sidebar link hover color */
+  }
+}
